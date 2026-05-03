@@ -4,6 +4,7 @@
         "config:recommended",
         "group:allNonMajor"
     ],
+    "minimumReleaseAge": "3 days",
     "assignees": [
         "dkaser"
     ]
